@@ -11,3 +11,5 @@
 
 
 <img src="https://github.com/Joao987-del/Dev-Burger/blob/main/img/Captura%20de%20tela%202025-05-12%20181544.png?raw=true">
+<br>
+<img src="https://github.com/Joao987-del/Dev-Burger/blob/main/img/Captura%20de%20tela%202025-05-12%20182031.png?raw=true">
